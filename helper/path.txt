@@ -29,3 +29,7 @@
 /bugbounty-reward-program
 /bug-bounty-program/
 /bug-bounty-program/security
+/bug-bounty-program/
+/security/disclosure/
+/bug-bounty/
+/en/security/
