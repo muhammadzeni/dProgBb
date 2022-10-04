@@ -29,3 +29,7 @@
 /bugbounty-reward-program
 /bug-bounty-program/
 /bug-bounty-program/security
+/researcher/programs/telenet/telenetgroup/detail
+/support/contact-security
+/en-us/features/security/bug-bounty
+/about-us/policies/bug-bounty-program/
