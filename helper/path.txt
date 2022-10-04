@@ -29,3 +29,7 @@
 /bugbounty-reward-program
 /bug-bounty-program/
 /bug-bounty-program/security
+/en/responsible-disclosure
+/security/whitehat
+/help/a/responsible-disclosure
+/responsible-disclosure/
