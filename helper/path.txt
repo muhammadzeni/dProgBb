@@ -26,6 +26,10 @@
 /security-statement/
 /security_policy/
 /security-centre
-/bugbounty-reward-program
+/bugbounty-reward-program/pwa-hlp/mmtbb/report
+/More/bugBounty
+/en-us/msrc/bounty-microsoft-cloud
+/bug-bounty/guidelines
 /bug-bounty-program/
 /bug-bounty-program/security
+
